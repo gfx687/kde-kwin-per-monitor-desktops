@@ -1,0 +1,13 @@
+{
+  "KPlugin": {
+    "Id": "per-monitor-desktops",
+    "Name": "Per-monitor desktop shortcuts",
+    "Description": "Select a desktop and focus a window on a named monitor.",
+    "Icon": "preferences-system-windows",
+    "Version": "1.3",
+    "License": "MIT"
+  },
+  "X-Plasma-API": "javascript",
+  "X-Plasma-MainScript": "code/main.js",
+  "KPackageStructure": "KWin/Script"
+}
